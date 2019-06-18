@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "765621274551",
+    "firebase_url": "https://jstalk-b9341.firebaseio.com",
+    "project_id": "jstalk-b9341",
+    "storage_bucket": "jstalk-b9341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765621274551:android:956f080ae2440acb",
+        "android_client_info": {
+          "package_name": "com.inhatc.jstalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765621274551-07cpt7s9e8a1ati2fd7js2rab72na494.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inhatc.jstalk",
+            "certificate_hash": "80071e6343347939ba077909ee92b76efbd9e15b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB45MJ1Ilppbb8bV_xtosD6oQ1kCoSI5o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765621274551-mc8natgunnlko2mstffdbt15o07fo3p7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
